@@ -1,42 +1,46 @@
-🧠 Persistent Homology Analyzer – Topological Data Analysis (TDA)
+## 🧠 Persistent Homology Analyzer – Topological Data Analysis (TDA)
 A Python-based project that applies Topological Data Analysis (TDA) to uncover hidden geometric structures in data using persistent homology.
 This project demonstrates how to detect connected components and loops in noisy datasets using modern computational topology tools.
 
-🚀 Features
+---
 
-📊 Generate synthetic datasets (circle, clusters)
-🔄 Compute persistent homology using Vietoris–Rips filtration
-📈 Visualize:
+## 🚀 Features
 
-Persistence diagrams
-Barcode plots
+- **📊 Generate synthetic datasets (circle, clusters)**
+- **🔄 Compute persistent homology using Vietoris–Rips filtration**
+- **📈 Visualize:
+**Persistence diagrams**
+**Barcode plots**
 
+---
 
-🧠 Detect:
+## 🧠 Detect:
 
-Connected components (H₀)
-Loops (H₁)
+- **Connected components (H₀)**
+- **Loops (H₁)**
 
 
 ⚡ Robust to noisy data
 🎯 Simple, educational implementation
 
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 🔹 Programming
 
 Python 3
 
-🔹 Libraries
+## 🔹 Libraries
 
-NumPy – numerical computation
-Matplotlib – visualization
-Ripser – persistent homology computation
-Persim – diagram plotting
-Scikit-learn – dataset generation
+- **NumPy – numerical computation**
+- **Matplotlib – visualization**
+- **Ripser – persistent homology computation**
+- **Persim – diagram plotting**
+- **Scikit-learn – dataset generation**
 
+---
 
-📁 Project Structure
+## 📁 Project Structure
+
 tda-persistent-homology/
 │
 ├── data/
@@ -53,8 +57,9 @@ tda-persistent-homology/
 ├── README.md
 └── LICENSE
 
+---
 
-⚙️ Installation
+## ⚙️ Installation
 1. Clone the Repository
 Shellgit clone https://github.com/tfgregixx/tda-persistent-homology.gitcd tda-persistent-homology
 2. Install Dependencies
@@ -72,8 +77,10 @@ Compute persistent homology
 Extract topological features (H₀, H₁)
 Visualize results with diagrams
 
+---
 
-📊 Flowchart
+## 📊 Flowchart
+
 ✅ ASCII Version
         Start
           |
@@ -95,7 +102,8 @@ Visualize results with diagrams
           |
           v
         End
-
+        
+---
 
 🖼️Flowchart Image
 ## 📊 Flowchart
@@ -105,8 +113,12 @@ Visualize results with diagrams
 
 📉 Example Output
 Figure_1.png
+Figure_2.png
+Figure_3.png
 
-🧪 Example Use Cases
+---
+
+## 🧪 Example Use Cases
 
 Shape detection in noisy datasets
 Image topology analysis
@@ -114,36 +126,41 @@ Biological data patterns
 Machine learning feature extraction
 Manifold learning verification
 
+---
 
-📈 Key Insights
-✅ Detects hidden structure in data
-✅ Robust to noise
-✅ Identifies loops and clusters
-✅ Works without labels
+## 📈 Key Insights
 
-🔮 Future Enhancements
+- **✅ Detects hidden structure in data**
+- **✅ Robust to noise**
+- **✅ Identifies loops and clusters**
+- **✅ Works without labels**
 
-Interactive GUI (Tkinter / Streamlit)
-Support for real-world datasets
-Higher-dimensional homology (H₂)
-GPU acceleration
-Integration with ML pipelines
+---
 
+## 🔮 Future Enhancements
 
-🤝 Contributing
+- **Interactive GUI (Tkinter / Streamlit)**
+- **Support for real-world datasets**
+- **Higher-dimensional homology (H₂)**
+- **GPU acceleration**
+- **Integration with ML pipelines**
+
+---
+
+## 🤝 Contributing
 Contributions are welcome!
 Steps:
 
-Fork repository
-Create branch
-Commit changes
-Open Pull Request
+- **Fork repository**
+- **Create branch**
+- **Commit changes**
+- **Open Pull Request**
 
+---
 
-📜 License 
+## 📜 License 
 MIT License
 
-## 📜 License
 This project is licensed under the MIT License.
 ``
 
@@ -151,15 +168,17 @@ Simple
 Acceptable for academic work
 Allows reuse with credit
 
+---
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
-Topological Data Analysis research community
-Ripser & Persim libraries
-Open-source contributors
+- **Topological Data Analysis research community**
+- **Ripser & Persim libraries**
+- **Open-source contributors**
 
+---
 
-📌 Author
+## 📌 Author
 Preethi Regina S D
 Student – Topological Data Analysis Project
 
