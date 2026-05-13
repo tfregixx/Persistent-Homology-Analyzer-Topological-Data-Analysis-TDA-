@@ -98,7 +98,10 @@ Visualize results with diagrams
 
 
 🖼️Flowchart Image
-flowchart.png
+## 📊 Flowchart
+
+![Flowchart](images/flowchart.png)
+``
 
 📉 Example Output
 Figure_1.png
