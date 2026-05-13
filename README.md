@@ -141,9 +141,11 @@ Open Pull Request
 
 
 📜 License 
+MIT License
 
-
-
+## 📜 License
+This project is licensed under the MIT License.
+``
 
 Simple
 Acceptable for academic work
